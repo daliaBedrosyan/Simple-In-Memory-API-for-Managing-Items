@@ -16,11 +16,14 @@ This is a basic RESTful API built with **TypeScript** and **Express** that allow
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/daliaBedrosyan/Simple-In-Memory-API-for-Managing-Items.git
+
+2. **Setting Up Variables**
+   In the root folder of the project create a `.env` file and paste: `PORT=3000`
    
-2. **Install Dependencies**
+3. **Install Dependencies**
    `npm install`
 
-3. **Run The Project**
+4. **Run The Project**
    `npm run dev`
 
 
